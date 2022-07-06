@@ -1,0 +1,10 @@
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe.config
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.pdb
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csprojAssemblyReference.cache
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.DrinkMachine.resources
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.Properties.Resources.resources
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csproj.GenerateResource.cache
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.exe
+C:\Users\irism\source\repos\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.pdb
